@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, I'm LaLeX1491
+
+Im a Web-Developer from Germany, who's doing frontend development with VueJS
+
+
 
 <!--
 **LaLeX1491/LaLeX1491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
