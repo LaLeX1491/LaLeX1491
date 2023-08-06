@@ -10,8 +10,8 @@ My Langs are: JavaScript, Java and a bit of Python and C# *and (HTML, CSS)*
 **I'm searching for orders every time.**
 
 ## How to reach me
-You can write me on:  
->Discord: LaLeX1491#9307  
+You can message me on:  
+>Discord: @lalex1491
 >Twitter: lalex1491  
 >Instagram: LaLeX1491  
 
