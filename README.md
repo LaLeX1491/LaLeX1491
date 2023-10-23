@@ -12,7 +12,7 @@ My Langs are: JavaScript, Java and a bit of Python and C# *and (HTML, CSS)*
 ## How to reach me
 You can message me on:  
 >Discord: @lalex1491
->Twitter: lalex1491  
+>Twitter/X: lalex1491  
 >Instagram: LaLeX1491  
 
 
