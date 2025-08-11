@@ -5,15 +5,13 @@ I'm LaLeX1491
 Im a Web-Developer from Germany, who's doing frontend development with VueJS. Currently I'm living near to Hannover, Lower Saxony.
 
 ## My Languages
-My Langs are: JavaScript, Java and a bit of Python and C# *and (HTML, CSS)*
+My Langs are: JavaScript, Java and a bit of Python
 
 **I'm searching for orders every time.**
 
 ## How to reach me
 You can message me on:  
->Discord: @lalex1491
->Twitter/X: lalex1491  
->Instagram: LaLeX1491  
+* Discord: @lalex1491
 
 
 
