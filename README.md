@@ -1,32 +1,42 @@
-# Hey guys
-I'm LaLeX1491
+# 👋 Hey there, I'm LaLeX1491!
 
-## About me
-Im a Web-Developer from Germany, who's doing frontend development with VueJS. Currently I'm living near to Hannover, Lower Saxony.
+I'm a **Web Developer** from Germany, specializing in **frontend development with VueJS**. Currently based near Hannover, Lower Saxony.  
 
-## My Languages
-My Langs are: JavaScript, Java and a bit of Python
+---
 
-**I'm searching for orders every time.**
+## 💻 What I Do
+- 🖥 Frontend Development with **VueJS**
+- ⚡ Full-stack work with **Java & Spring Boot**
+- 🐍 Some **Python** for scripts and automation
+- Always on the lookout for **freelance projects & collaborations**
 
-## How to reach me
-You can message me on:  
-* Discord: @lalex1491
+---
 
+## 🌐 Languages & Tools
+**Languages:** JavaScript, Java, Python  
+**Frontend:** VueJS, HTML5, CSS3, TailwindCSS  
+**Backend:** Spring Boot, Node.js  
+**Database:** PostgreSQL, MySQL  
 
+---
 
+## 📫 How to Reach Me
+You can contact me via:  
+- **Discord:** `@LaLeX1491`  
+- **Email:** (optional, if you want to add)
 
-<!--
-**LaLeX1491/LaLeX1491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Building small web apps & dashboards for clients  
+- Improving my VueJS and Spring Boot skills  
+- Exploring modern UI/UX patterns  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Fun Fact
+I’m always learning, always coding, and I **love turning ideas into functional web apps**!  
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
